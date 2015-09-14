@@ -3,3 +3,19 @@ It creates a hidden durectory .git which is needed to create a commit.
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
+How can you use the staging area to make sure you have one commit per logical change?
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+When we want to try something without saving to the main branch
+
+How do the diagrams help you visualize the branch structure?
+very helpful
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+The result is one branch that contain changes of 2 branches.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+pros
+very easy and quik
+cons
+may be conflicts
